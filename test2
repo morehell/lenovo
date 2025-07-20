@@ -1,0 +1,4 @@
+#check git
+#ignore test
+
+echo "Hello Git"
